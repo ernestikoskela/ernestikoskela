@@ -2,3 +2,4 @@
 .hugo_build.lock
 resources/*
 node_modules/*
+package-lock.json
