@@ -1,3 +1,4 @@
-baseURL = 'http://ernestikoskela.pages.dev/'
+baseURL = 'https://ernestikoskela.pages.dev/'
 languageCode = 'en-us'
 title = 'Ernesti Koskela'
+theme = 'introduction'
