@@ -6,4 +6,3 @@ draft: false
 
 Hi.
 
-https://twitter.com/ernestikoskela
